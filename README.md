@@ -3,3 +3,8 @@ This project is for creating for tracking all our personal work and evaluate the
 My dream project comes to true! Also i am trying to use it for one person to improve his potentials.
 
 Test the git diff.
+
+
+# git fetch
+
+git fetching is fetching all commit and reference download from reference branch, it won't merge with current branch.
